@@ -1,8 +1,7 @@
 # hello-world
 Just another repository for tradition's sake
 
-// This is my first ever edit and it was done on a new branch separated from 
-//  the master project branch 
+// This is my first ever edit and it was done on a new branch separated from the master project branch 
 
 /* About me
 
